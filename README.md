@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rajesh Agrahari
-- 👀 I’m interested in ...
-- 🌱 I’m currently using react to build website ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently using react to build website
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...rajesh.agrahari@gmail.com
 
 <!---
