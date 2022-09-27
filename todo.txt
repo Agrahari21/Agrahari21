@@ -30,3 +30,5 @@ added in github
 >>>>>>> a832af779190ff0407e22db52a09809cf0352794
 
 added in laptop again
+
+Updated in git hub
