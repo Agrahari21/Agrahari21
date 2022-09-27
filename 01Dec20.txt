@@ -40,10 +40,4 @@ const cart = useSelector((state) => state.cart);
 
 Redux thunk make it possible to send ajax request in our redux action
 
-MeeraAgr
-fulchur#27
-gondia#31
-bhajan
-
-tvb9egy3
------------------------------------------------
+Updated in git hub
