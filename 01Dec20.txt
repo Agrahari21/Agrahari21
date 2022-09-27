@@ -1,0 +1,49 @@
+what is combinedReducer ?
+
+css flex: parameters?
+
+thunnk middlwware for redux
+
+props.history.push() ---method to redirect to other url
+
+useState, 
+useEffect
+useSelector from react-redux 
+
+node understand ES5 version; react using ES6 version...convert from ES6 to ES5 need to use babel
+npm install @babel/cli @babel/core @babel/node @babel/preset-env nodemon --save-dev
+
+.babelrc
+
+image tag ...alt attribute
+
+button tag ..display 4 hor lines with code &#9776
+------------------------
+or create a new repository on the command line
+echo "# React-sample" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Agrahari21/React-sample.git
+git push -u origin main
+
+------if error...search for github ssh key and follow steps to generate ssh key and add to github account
+----------------------------------
+
+starhealth poliy number P/161130/01/2020/046348
+
+
+const cart = useSelector((state) => state.cart);
+  const { cartItems } = cart;
+-------------------------
+
+Redux thunk make it possible to send ajax request in our redux action
+
+MeeraAgr
+fulchur#27
+gondia#31
+bhajan
+
+tvb9egy3
+-----------------------------------------------
