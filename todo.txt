@@ -1,0 +1,23 @@
+multithreading --- at 16:30 sec...arg..
+race conditions, locks   new videos
+
+Try multiprocessing example...also try creating list of files
+
+try logging and timing functionality using 2 approches..also try to create single log file across files
+
+Python and arduino
+SKLearn package overview
+
+Message Queues and python
+
+python and webservers
+
+python and db connectivity...oracle, mssql, mysql
+
+pip install beautifulsoup4
+
+request.html parser
+
+:memory: in-memory database
+sqlalchemy
+
